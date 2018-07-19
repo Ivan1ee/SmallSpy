@@ -1,3 +1,2 @@
-平时研究出来的一些特别的webshell
-# ashxLessSpy
-# asmxLessSpy
+ASP.NET下的一款小马
+asmxSmallSpy.asmx
